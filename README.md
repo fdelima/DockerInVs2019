@@ -64,3 +64,15 @@ Demonstração de um projeto aspnet core docker no vs2019
 ![](media/d2ccb0e45e5d2afd68e5de35b4d135f1.png)
 
 ![](media/6ca30b81517effe7cd8f0a7deee7b320.png)
+
+Publicando imagem docker no azure através do publish
+
+![](media/884980e6c3a88a4fb92d788d0bce80c8.png)
+
+![](media/a334a0192af94e2c0209c29e9abdf6da.png)
+
+![](media/3ffcb6f9f48affc106a3a1884a6fae67.png)
+
+![](media/e36e1f811478426eddbc91f6f5dc5f8a.png)
+
+![](media/113615ae469f67e9818e7de59f63cbd0.png)
